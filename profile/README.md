@@ -54,8 +54,9 @@ All results are shared openly within this organization.
 
 ---
 
-## 🤝 Join an Expedition
+## 🚀 Start your own Expedition
 
-Interested? Join an upcoming expedition or start your own.
+👉 **[Create your expedition here →](https://github.com/htl-leo-ai-expeditions/expedition-template)**
 
 👉 From curiosity to concrete results—together.
+
