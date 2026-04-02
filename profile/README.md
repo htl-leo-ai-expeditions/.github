@@ -4,14 +4,18 @@ Exploring AI together – hands-on, collaborative, outcome-driven.
 
 ---
 
+![Overview](OverviewSlide.png)
+
+---
+
 ## 🧭 What are AI Expeditions?
 
 AI Expeditions are small, self-organized sessions where students and teachers explore practical applications of AI together.
 
-- voluntary participation  
-- small groups (5–7 people)  
-- hands-on experimentation  
-- open sharing of results  
+- voluntary participation
+- small groups (5–7 people)
+- hands-on experimentation
+- open sharing of results
 
 ---
 
@@ -32,10 +36,10 @@ Results are published in the **Expedition Logbook**.
 
 Each expedition produces a short logbook entry including:
 
-- topic and goal  
-- key findings  
-- prompts, code, materials  
-- lessons learned  
+- topic and goal
+- key findings
+- prompts, code, materials
+- lessons learned
 
 All results are shared openly within this organization.
 
@@ -43,10 +47,10 @@ All results are shared openly within this organization.
 
 ## 🚀 Example Topics
 
-- Designing exercises for agentic programming  
-- Evaluating low-cost AI models  
-- Exploring new AI tools  
-- Improving prompting strategies  
+- Designing exercises for agentic programming
+- Evaluating low-cost AI models
+- Exploring new AI tools
+- Improving prompting strategies
 
 ---
 
